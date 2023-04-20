@@ -1,2 +1,2 @@
 # CodeClause_UnitConvertor
-Simply using python program for conversion
+Simply using python program for timing and stopwatch
